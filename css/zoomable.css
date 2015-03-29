@@ -1,0 +1,22 @@
+
+
+.ContainerBigImage{
+      position: fixed;
+}
+
+.imageHolder{
+  position: relative;
+}
+
+
+.close {
+   position: absolute;
+   top: -2px;
+   right: 0px;
+   font-size: 60px;
+   cursor: pointer;
+   color: #222;
+   text-decoration: none;
+}
+
+
